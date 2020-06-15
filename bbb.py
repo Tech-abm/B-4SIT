@@ -1048,8 +1048,8 @@ def pilih_crack():
 	        phone()
         elif peak =="3":
 	        mafia()
-	    elif peak =="0":
-		    menu()
+	elif peak =="0":
+		menu()
 	else:
 		print "\x1b[1;91mFill in correctly"
 		pilih_crack()
