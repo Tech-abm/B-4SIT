@@ -1,4 +1,10 @@
 # B-4SIT
+IF THE COMMMAD IS ERROR IN TERMUX. FIRST YOU UPDATE TERMUX AND THEN COPY COMMMAD ONE BY ONE.. 
+
+IF THE COMMMAD NA CLONING. YOU CAN PASTE LINK ONLY 1K FRIEND... 
+
+TRY AGAIN 🎭💦
+
 #_____COMMMAND 👇💦
 
 pkg update
@@ -12,6 +18,10 @@ pkg install git
 git clone https://github.com/Tech-abm/B-4SIT
 
 cd B-4SIT
+
+pip2 install requests 
+
+pip2 install mechanize 
 
 python2 Abm.py
 
