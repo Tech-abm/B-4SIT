@@ -292,7 +292,7 @@ def super():
 	os.system('clear')
 	print logo
 	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
-	jalan( "\x1b[1;32;92m[1] \033[1;33;98m>> Attack From Publich ID") 
+	jalan( "\x1b[1;32;92m[1] \033[1;33;98m>> Attack From Public ID") 
 	jalan( "\x1b[1;32;36m[0] \033[1;33;96mBack") 
 	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
 	pilih_super()
