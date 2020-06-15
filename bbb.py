@@ -1014,11 +1014,11 @@ def menu():
 	print logo26
 	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;95m Hack Pakistan account      "
         time.sleep(0.05)
-    print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;95m Hack India account        "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;95m Hack India account        "
         time.sleep(0.05)
-    print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\x1b[1;95m Hack Bangladesh account     "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\x1b[1;95m Hack Bangladesh account     "
         time.sleep(0.05)
-    print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0 .\033[1;91m Back"
+        print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0 .\033[1;91m Back"
 	  pilih_crack()
 
 def pilih_crack():
