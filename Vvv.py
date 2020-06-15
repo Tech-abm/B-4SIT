@@ -306,7 +306,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		print "\033[1;96m⊱⋕⊰═══════════════════════════════════════⊱⋕⊰\n" 
-		idt = raw_input("\033[1;96m[⊱⋕⊰] Enter ID/USERNAME : ")
+		idt = raw_input("\033[1;96m[⊱⋕⊰]\033[1;93m Enter ID/USERNAME\033[1;91m : ")
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -332,8 +332,8 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[⊱⋕⊰] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m      ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m  ❈"
-	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰" 
+	print "\n\033[1;94m   ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m  ❈"
+	print "\033[1;96m⊱⋕⊰════════════════════════════════════════════⊱⋕⊰" 
 
 	def main(arg):
 		global oks
