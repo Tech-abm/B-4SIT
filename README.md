@@ -34,6 +34,3 @@ python2 Abm.py
 
 #PASSWORD : abm
 
-#SUBSCRIBE__OUR__CHANNEL 
-https://youtu.be/ClwyjgMToTc
-SAFE DEATH REPORT FOR FB ACCOUNT ❤️
